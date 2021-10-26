@@ -1,14 +1,14 @@
 import React from 'react'
 import './Home.css'
-import sportTeam from './assets/sport-team.png'
-import group from "./assets/Group 16136@2x@2x.png"
-import shuterShock from "./assets/shutterstock_796346011@2x.png"
-import imgArticle from "./assets/img_article.jpg"
-import reward from "./assets/reward.png"
-import project from "./assets/project.png"
-import support from "./assets/support.png"
-import bgPeople from './assets/bg-people@2x.png'
-import batik from './assets/ornament_batik.png'
+import sportTeam from '../../assets/img/sport-team.png'
+import group from "../../assets/img/Group 16136@2x@2x.png"
+import shuterShock from "../../assets/img/shutterstock_796346011@2x.png"
+import imgArticle from "../../assets/img/img_article.jpg"
+import reward from "../../assets/img/reward.png"
+import project from "../../assets/img/project.png"
+import support from "../../assets/img/support.png"
+import bgPeople from '../../assets/img/bg-people@2x.png'
+import batik from '../../assets/img/ornament_batik.png'
 
 const Home = () => {
 

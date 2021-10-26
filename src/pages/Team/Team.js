@@ -1,8 +1,8 @@
 import React from "react"
 import './Team.css'
-import shuterShock from "./assets/shutterstock_796346011@2x.png"
-import batik from './assets/ornament_batik.png'
-import calender from "./assets/calendar.png"
+import shuterShock from "../../assets/img/shutterstock_796346011@2x.png"
+import batik from '../../assets/img/ornament_batik.png'
+import calender from "../../assets/img/calendar.png"
 
 
 const Team = () => {
