@@ -1,0 +1,28 @@
+.bg-event {
+    margin: 5% 2%;
+    height: 100%;
+    background-color: rgb(247, 247, 247);
+}
+.img-style {
+    width: 100%;
+}
+.text-event {
+    font-size: 20px; font-weight: bold;
+}
+.text-content1 {
+    position: absolute; margin: 10px; padding: 3px 10px; border: 1; border-radius:  20px; background-color: coral; color: white; font-family: muli; font-size: 10px;
+}
+.event {
+    margin: 5% 5%;
+    color: #19345E;
+}
+.text2-event {
+    text-decoration:none;color: #F47522;
+}
+.text3-event {
+    position: absolute; margin: 30px 25px; font-family: muli; font-size: 12px; color: rgb(184, 182, 182);
+}
+.text4-event {
+    text-decoration:none;
+    color: black; margin: 15px 15px;
+}

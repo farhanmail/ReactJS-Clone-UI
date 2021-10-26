@@ -1,0 +1,25 @@
+.text-blog {
+    margin: 50px 50px;
+}
+.blog {
+    margin: 0px 10px; font: normal normal bold 45px/16px Muli; color: #19345E; 
+}
+.img-blog {
+    width: 100%;
+}
+.blog1 {
+    margin: 2.5% 15%;
+    color: #19345E;
+}
+.font-text1 {
+    font-size: 50px; font: normal normal 800 50px/68px Muli;
+}
+.font-text2 {
+    margin: 5% 0px; font: normal normal bold 20px/68px Muli;
+}
+.font-text-p {
+    font: normal normal normal 15px/24px poppins;
+}
+.font-text-p1 {
+    font: normal normal normal 15px/24px poppins; margin-bottom: 20%;
+}

@@ -1,0 +1,24 @@
+.home {
+    background-color: #EDF6FF; 
+}
+.image1 {
+    margin-top: 100px; margin-left: 32%; margin-bottom: 100px; width: 65%;
+}
+.content1 {
+    color: #19345E; margin-right: 10px;
+}
+.content2 {
+    color: #F47522; 
+}
+.content3 {
+    font-size: 17px; color: #19345E; margin-left: 20%
+}
+.btn1 {
+    margin-bottom: 20px; width: 230px; height: 38px; border-radius: 20px; background-color: #F47522; color:white;
+}
+.btn-img1 {
+    margin-top: 4px;margin-left: 15%; width: 10%; height: 10%;
+}
+.btn-text1 {
+    margin-left: 7px;
+}

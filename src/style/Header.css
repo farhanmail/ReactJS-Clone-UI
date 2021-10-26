@@ -1,0 +1,52 @@
+.content1 {
+    width: 914px;
+    height: 59.47; 
+    margin: 0px 10%;
+}
+.col1 {
+    margin-top: 20px
+}
+.button1 {
+    border: none;
+    background-color: white;
+    padding: 0px; 
+    margin-right: 5%; 
+    color:#F47522; 
+    cursor: pointer;
+    font: normal normal bold 15px/8px 'Muli';
+    text-decoration: none;
+}
+.button2 {
+    border: none;
+    background-color: white;
+    text-decoration: none;
+    padding: 0px;
+    margin-right: 5%; 
+    color:#19345E; 
+    cursor: pointer;
+    font: normal normal bold 15px/8px 'Muli';
+}
+.button3 {
+    width: 130px; 
+    height: 38px; 
+    background-color: white;
+    border-radius: 20px; 
+    border-color: #F47522; 
+    color: #F47522; 
+    cursor: pointer;
+    font: normal normal bold 15px/8px 'Muli';
+}
+
+.logo {
+    width: 110px; 
+    height: 59.47;
+    cursor: pointer;
+}
+
+.col-red {
+    background-color: red;
+}
+
+.col-blue {
+    background-color: blue;
+}
