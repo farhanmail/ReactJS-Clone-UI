@@ -1,0 +1,140 @@
+.title {
+    margin: 60px auto;
+    background-size: cover;
+    text-align: center;
+}
+
+.content {
+    max-width: 914px;
+    min-height: 884px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.content-title {
+    width: 276px;
+    height: 38px;
+    text-align: left;
+    font: normal normal bold 30px/12px Muli;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.content-flex {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-frm {
+    max-width: 350x;
+    max-height: 430px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+.frame {
+    margin-top: 30px;
+    width: 300px;
+    height: 365px;
+    border: 10px solid #F47522;
+    opacity: 1;
+    position: absolute;
+}
+
+.img-frm img{
+    margin-left: 30px;
+    max-width: 320px;
+    max-height: 400px;
+}
+
+.content-info {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 440px;
+    min-height: 320px;
+    text-decoration: underline;
+    font: normal normal normal 14px/24px Poppins;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.span2 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.content-flex2 {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Education h1 {
+    text-align: left;
+    font: normal normal bold 25px/12px Muli;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.Education img{
+    width: 14px;
+    height: 14px;
+}
+
+.Education span {
+    margin-left: 5px;
+    text-align: left;
+    font: normal normal normal 14px/12px Poppins;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.Experience {
+    margin-left: 405px;
+}
+
+.Education p {
+    text-align: left;
+    font: normal normal bold 14px/24px Poppins;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.Experience h1 {
+    text-align: left;
+    font: normal normal bold 25px/12px Muli;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.Experience img{
+    width: 14px;
+    height: 14px;
+}
+
+.Experience span {
+    margin-left: 5px;
+    text-align: left;
+    font: normal normal normal 14px/12px Poppins;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
+
+.Experience p {
+    text-align: left;
+    font: normal normal bold 14px/24px Poppins;
+    letter-spacing: 0px;
+    color: #19345E;
+    opacity: 1;
+}
